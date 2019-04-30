@@ -8,4 +8,4 @@ master and dev 分支合并修改
 
 4-29 add message
 
-tomorrow is very good
+master=tomorrow is very good   dev=todya good!!!
